@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyAidl</string>
+    <string name="btn">Play</string>
+    <string name="btn2">Stop</string>
+    <string name="btn3">Exit</string>
+    <string name="tv">Ready</string>
+</resources>
